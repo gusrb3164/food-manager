@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/food-manager/static/css/main.1155dcdb.chunk.css",
-    "main.js": "/food-manager/static/js/main.d83faf0b.chunk.js",
-    "main.js.map": "/food-manager/static/js/main.d83faf0b.chunk.js.map",
+    "main.js": "/food-manager/static/js/main.f7d137fa.chunk.js",
+    "main.js.map": "/food-manager/static/js/main.f7d137fa.chunk.js.map",
     "runtime-main.js": "/food-manager/static/js/runtime-main.1b3cd16c.js",
     "runtime-main.js.map": "/food-manager/static/js/runtime-main.1b3cd16c.js.map",
     "static/js/2.7c4d17fb.chunk.js": "/food-manager/static/js/2.7c4d17fb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1b3cd16c.js",
     "static/js/2.7c4d17fb.chunk.js",
     "static/css/main.1155dcdb.chunk.css",
-    "static/js/main.d83faf0b.chunk.js"
+    "static/js/main.f7d137fa.chunk.js"
   ]
 }
