@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food-manager/static/css/main.1155dcdb.chunk.css",
+    "main.js": "/food-manager/static/js/main.d83faf0b.chunk.js",
+    "main.js.map": "/food-manager/static/js/main.d83faf0b.chunk.js.map",
+    "runtime-main.js": "/food-manager/static/js/runtime-main.1b3cd16c.js",
+    "runtime-main.js.map": "/food-manager/static/js/runtime-main.1b3cd16c.js.map",
+    "static/js/2.7c4d17fb.chunk.js": "/food-manager/static/js/2.7c4d17fb.chunk.js",
+    "static/js/2.7c4d17fb.chunk.js.map": "/food-manager/static/js/2.7c4d17fb.chunk.js.map",
+    "static/js/3.0d5ff02a.chunk.js": "/food-manager/static/js/3.0d5ff02a.chunk.js",
+    "static/js/3.0d5ff02a.chunk.js.map": "/food-manager/static/js/3.0d5ff02a.chunk.js.map",
+    "index.html": "/food-manager/index.html",
+    "static/css/main.1155dcdb.chunk.css.map": "/food-manager/static/css/main.1155dcdb.chunk.css.map",
+    "static/js/2.7c4d17fb.chunk.js.LICENSE.txt": "/food-manager/static/js/2.7c4d17fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3cd16c.js",
+    "static/js/2.7c4d17fb.chunk.js",
+    "static/css/main.1155dcdb.chunk.css",
+    "static/js/main.d83faf0b.chunk.js"
+  ]
+}
